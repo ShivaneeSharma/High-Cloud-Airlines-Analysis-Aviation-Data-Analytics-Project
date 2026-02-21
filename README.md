@@ -74,3 +74,6 @@ This project highlights my ability to:
 * Communicate insights clearly with business impact
 
 ## Dashboard Image
+- <a href = "https://github.com/ShivaneeSharma/High-Cloud-Airlines-Analysis-Aviation-Data-Analytics-Project/blob/main/Excel.png">Excel Dashboard</a>
+- <a href = "https://github.com/ShivaneeSharma/High-Cloud-Airlines-Analysis-Aviation-Data-Analytics-Project/blob/main/Power%20BI.png">Power BI Dashboard</a>
+- <a href = "https://github.com/ShivaneeSharma/High-Cloud-Airlines-Analysis-Aviation-Data-Analytics-Project/blob/main/Tableau.png">Tableau Dashboard</a>
